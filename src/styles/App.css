@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+}
+
+:root {
+  --light-background-color: #f0f0f0;
+  --light-text-color: #333;
+  --light-primary-color: #4ecdc4;
+  --light-secondary-color: #45b7aa;
+  --light-accent-color: #ff6b6b;
+  --light-card-background: #ffffff;
+
+  --dark-background-color: #333;
+  --dark-text-color: #f0f0f0;
+  --dark-primary-color: #45b7aa;
+  --dark-secondary-color: #4ecdc4;
+  --dark-accent-color: #ff6b6b;
+  --dark-card-background: #444;
+}
